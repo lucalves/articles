@@ -12,3 +12,4 @@ Post | Title | Published Date | Language
 6 | [12 Useful libraries to support development using flutter](https://medium.com/flutter-community/12-useful-libraries-to-support-development-using-flutter-3b8df97d898) | 11/11/2019 | 🇺🇸
 7 | [Como criar um readme incrível no seu perfil do GitHub](https://lucalves.medium.com/como-criar-um-readme-incr%C3%ADvel-no-seu-perfil-do-github-58476be7019d) | 02/01/2021 | 🇧🇷
 8 | [15 Bibliotecas úteis para produtividade no desenvolvimento com Flutter](https://lucalves.medium.com/15-bibliotecas-%C3%BAteis-para-produtividade-no-desenvolvimento-com-flutter-atualizado-2021-deae4e815345) | 14/10/2021 | 🇧🇷
+9 | [15 Useful Libraries for Flutter Development Productivity [Updated 2021]](https://medium.com/flutter-community/15-useful-libraries-for-flutter-development-productivity-updated-2021-15bcafe205f3) | 27/10/2021 | 🇺🇸
