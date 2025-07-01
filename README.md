@@ -2,7 +2,7 @@
 
 Here are the articles written by me.
 
-Post | Title | Published Date | Language
+Number | Title | Published Date | Language
 --- | --- | --- | ---
 1 | [Como fazer o debug de aplicações em React Native?](https://lucalves.hashnode.dev/como-fazer-o-debug-de-aplicacoes-em-react-native) | 05/02/2022 | 🇧🇷
 2 | [15 Useful Libraries for Flutter Development Productivity [Updated 2021]](https://medium.com/flutter-community/15-useful-libraries-for-flutter-development-productivity-updated-2021-15bcafe205f3) | 27/10/2021 | 🇺🇸
