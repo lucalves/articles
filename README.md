@@ -15,4 +15,6 @@ Number | Title | Published Date | Language
 9 | [Como sobrepor vários widgets no Flutter utilizando Stack](https://medium.com/flutter-comunidade-br/como-sobrepor-varios-widgets-no-flutter-utilizando-stack-a18e96ff388d) | 26/09/2019 | 🇧🇷
 10 | [Como adicionar funcionamento ao botão ‘voltar’ no Flutter](https://medium.com/flutter-comunidade-br/como-adicionar-funcionamento-ao-bot%C3%A3o-voltar-no-flutter-644dcd0aaa7e) | 18/09/2019 | 🇧🇷
 
+## License
 
+MIT
